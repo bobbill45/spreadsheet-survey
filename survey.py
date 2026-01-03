@@ -4,7 +4,7 @@ import os
 import qrcode
 from io import BytesIO
 
-survey_url = ""
+survey_url = "https://spreadsheet-survey-mx8thvk5lpz6r3aqkepmzk.streamlit.app"
 
 #Generate QR code
 
