@@ -26,7 +26,7 @@ q1 = st.radio("What type of spreadsheet do you work with the most?", ["Customers
 q2 = st.radio("How often do you receive messy or inconsistent speadsheets?", ["Daily", "Weekly", "monthly", "Rarely", "Constantly"])
 q3 = st.radio("What are the problems do you see the most often?", ["Duplicates", "Wrong unit messurement","Missspellings", "Missing columns", "Wrong formats","Hidden Security theats"])
 q4 = st.radio("What system do you import data into?", ["Quickbooks", "Xero", "POS systems", "Customer software","Not sure"])
-q5 = st.radio("Would you use a tool that cleans and secures your spreadsheets automatically?", ["Yes", "Maybe", "Only if cheap", "No"])
+q5 = st.radio("Would you use this tool that cleans and secures your spreadsheets automatically?", ["Yes", "Maybe", "Only if cheap", "No"])
 
     
 
